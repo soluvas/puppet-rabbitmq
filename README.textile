@@ -1,0 +1,9 @@
+h1. RabbitMQ module for Puppet, including Stomp and Stomp-Web via SockJS/WebSocket
+
+This is an actively maintained rabbitmq puppet module, with full command
+mappings.
+
+Ugly hack to enabled stomp support added (Kris Buytaert) 
+
+Hendy Irawan also added RabbitMQ Web Stomp from:
+http://www.rabbitmq.com/blog/2012/05/14/introducing-rabbitmq-web-stomp/
