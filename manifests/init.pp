@@ -6,7 +6,7 @@
 #
 #   include rabbitmq
 #
-class rabbitmq($package_version = '2.8.2-1', $dir_version = '2.8.2') {
+class rabbitmq($package_version = '2.8.4-1', $dir_version = '2.8.4') {
 
   apt::source { rabbitmq:
     location   => 'http://www.rabbitmq.com/debian/',
